@@ -1,0 +1,35 @@
+@import url('styles.css');
+@media screen {
+    header{
+        background-color: var(--cor-preto);
+        color: var(--cor-branco);
+        padding: 10px;
+        text-align: center;
+        line-height: 5px;
+    }
+    
+    .logo{
+        font-size:2.2rem;
+        font-weight: bolder;
+        text-shadow: 1px 3px 4px rgba(255, 255, 255, 0.329);
+    }
+    }
+    .secoes{
+        font-family: var(--fonte-poema);
+        font-weight: bold;
+        font-style: italic;
+        padding: 20px;
+    }
+    .secoes p{
+        padding: 20px;
+        text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.418);
+    }
+    
+    #segunda{
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+    #quinta{
+        background-position: center center;
+    }
