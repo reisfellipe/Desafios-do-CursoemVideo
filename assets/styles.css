@@ -46,6 +46,7 @@ header{
 }
 .secoes p{
     padding: 20px;
+    text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.418);
 }
 #primeira{
     height: 250px;
